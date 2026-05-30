@@ -1,323 +1,132 @@
 <div align="center">
 
-<br/>
-
-```
-S A R A V A N A N
-```
-
-<h2>Full Stack Engineer</h2>
-
-<p>Building scalable web systems, AI-powered SaaS platforms, and real-time applications.<br/>
-Focused on backend architecture, product engineering, and clean system design.</p>
-
-<p>Coimbatore, India</p>
+<!-- Modern Dynamic Header -->
+<img src="https://capsule-render.vercel.app/render?type=waving&color=4285F4&height=200&section=header&text=SARAVANAN%20T&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Full-Stack%20Developer%20(MERN%20Stack)&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 
 <br/>
 
-<a href="#" target="_blank">Portfolio</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;<a href="https://linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;<a href="mailto:your@email.com">Email</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;<a href="#" target="_blank">Resume</a>
+### Building scalable web systems, AI-powered platforms, and real-time applications.
 
-<br/><br/>
+**Coimbatore, India**[cite: 1]
+
+<p align="center">
+  <a href="https://saravanan-dev-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/saravanan-t" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saro200621@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Saravanan-246" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 </div>
 
-<br/>
+## 👨‍💻 About Me
 
-## Engineering Philosophy
-
-I build software with a focus on clarity at the system level and precision at the implementation level. Good architecture reduces future complexity — I try to make that trade-off intentionally, not reactively.
-
-My approach is shaped by three things: understanding the product before writing code, keeping systems maintainable as they grow, and treating every technical decision as a long-term one. I work best at the intersection of backend systems, real-time applications, and product thinking.
-
-<br/>
-
----
-
-<br/>
-
-## Core Expertise
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left" width="33%">Frontend</th>
-      <th align="left" width="33%">Backend &amp; APIs</th>
-      <th align="left" width="33%">Data &amp; Systems</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top">
-        Component architecture<br/>
-        State management patterns<br/>
-        Real-time UI with WebSockets<br/>
-        Dashboard &amp; analytics interfaces<br/>
-        Multi-tenant SaaS front-ends<br/>
-        Performance optimization
-      </td>
-      <td valign="top">
-        RESTful API design<br/>
-        JWT authentication &amp; authorization<br/>
-        Node.js / Express.js services<br/>
-        Python / FastAPI services<br/>
-        WebSocket integrations<br/>
-        API design patterns
-      </td>
-      <td valign="top">
-        MongoDB schema design<br/>
-        Session &amp; event tracking<br/>
-        Analytics data modeling<br/>
-        Real-time data flow<br/>
-        ML model integration<br/>
-        System design fundamentals
-      </td>
-    </tr>
-  </tbody>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🚀 I am a <b>Full-Stack Developer (MERN Stack)</b> experienced in building full-stack web applications using React, Node.js, and MongoDB[cite: 1].</li>
+        <li>🎓 Currently pursuing a <b>B.Sc in Computer Science</b> at Dr. NGP Arts and Science College (2024-2027) with a CGPA of 8/10[cite: 1].</li>
+        <li>⚡ Skilled in REST APIs, authentication, and scalable application development[cite: 1].</li>
+        <li>💡 I focus on backend architecture, product engineering, and clean system design.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Saravanan-246&show_icons=true&theme=transparent&hide_border=true&title_color=4285F4&text_color=333333&icon_color=EA4335" width="100%" alt="GitHub Stats" />
+    </td>
+  </tr>
 </table>
 
 <br/>
 
----
-
-<br/>
-
-## Technology Stack
-
-```
-  Frontend       React · JavaScript · HTML · CSS · WebSockets
-  Backend        Node.js · Express.js · Python · FastAPI
-  Database       MongoDB
-  Real-Time      Socket.io
-  API            REST · JSON
-  Tooling        Git · GitHub · Postman · VS Code
-```
-
-<br/>
-
----
-
-<br/>
-
-## Featured Projects
-
-<br/>
-
-### 01 // CookieAI Analytics
-
-**AI-powered analytics SaaS platform for real-time visitor tracking and product insights.**
-
-A multi-tenant analytics platform covering event tracking, session monitoring, device analytics, dashboard reporting, authentication, and billing. Built with a clear separation between the data ingestion layer, the API layer, and the React dashboard.
-
-**Core Engineering**
-
-- Real-time event tracking via Socket.io with persistent MongoDB storage
-- Multi-tenant data isolation with per-site analytics namespacing
-- Session tracking for reconstructing user journeys across page interactions
-- Role-based access control supporting multi-user workspace management
-- Billing system integration with subscription state management
-
-**Key Details**
-
-- WebSocket-based live dashboard updates with connection and reconnection handling
-- Reporting features covering time-series data, funnel views, and segment filtering
-- Device analytics with structured schema for cross-session correlation
-
-**Stack**
-
-```
-React · Node.js · Express.js · MongoDB · Socket.io
-```
-
-<br/>
-
----
-
-### 02 // PatchGuard AI
-
-**Cybersecurity dashboard for vulnerability monitoring, patch tracking, and risk analytics.**
-
-A full-stack security dashboard giving teams visibility into vulnerability exposure, patch status, and risk scoring. Built with a focus on reliable real-time alerting and clean data modeling across assets and time windows.
-
-**Core Engineering**
-
-- Vulnerability data model supporting CVE tracking, severity scoring, and asset mapping
-- Patch lifecycle management covering discovery, assignment, verification, and closure
-- Risk scoring system generating aggregate scores across assets and time windows
-- Real-time alerting via WebSocket push with configurable thresholds
-- JWT authentication and input validation throughout the API layer
-
-**Key Details**
-
-- Live dashboard supporting concurrent views on real-time security data
-- Security analytics covering trend analysis, exposure timelines, and patch velocity
-
-**Stack**
-
-```
-React · Node.js · MongoDB · Socket.io
-```
-
-<br/>
-
----
-
-### 03 // Smart Canteen Portal
-
-**Dual-portal ordering platform with QR-based ordering, payment integration, and real-time tracking.**
-
-A full-stack platform serving students and administrators through separate portals within a shared order management system. Designed to handle concurrent orders with consistent state across both sides of the platform.
-
-**Core Engineering**
-
-- Dual-portal architecture with separate authentication and role-scoped data access
-- Order lifecycle management from creation through confirmation, preparation, and completion
-- QR-based ordering with unique token generation and expiry logic
-- Payment integration with transaction state handling
-
-**Key Details**
-
-- Real-time order status updates for students via WebSocket
-- Admin portal with a live operational view of all active orders
-- Menu and availability management with state reflected instantly in the student portal
-
-**Stack**
-
-```
-React · Node.js · Express.js · MongoDB
-```
-
-<br/>
-
----
-
-<br/>
-
-## Research Projects
-
-<details>
-<summary><strong>View Research Projects</strong></summary>
-
-<br/>
-
-**Crowd Prediction System**
-
-ML-driven platform for monitoring public spaces and predicting crowd density. Integrates a React visualization layer over a Python/FastAPI backend serving model inference results in real time.
-
-- Crowd density prediction using models trained on spatial and temporal data
-- FastAPI backend handling inference requests and serving predictions
-- React frontend rendering density visualizations and forecast outputs
-
-```
-React · Python · FastAPI
-```
-
-<br/>
-
-**Mentor AI**
-
-AI-powered mentoring platform for personalized academic guidance, progress tracking, and automated student support.
-
-- Guidance system matching content to individual learner profiles using AI services
-- Progress tracking with milestone definitions and completion analytics
-- Automated support workflows for common academic queries
-
-```
-React · Node.js · AI Services
-```
-
-</details>
-
-<br/>
-
----
-
-<br/>
-
-## Selected Engineering Highlights
-
-- Built a multi-tenant analytics SaaS with real-time visitor tracking, session monitoring, and a live reporting dashboard using Socket.io and MongoDB
-- Designed a dual-portal ordering system with QR-based order flow, payment integration, and WebSocket-driven live order tracking
-- Developed a cybersecurity dashboard with CVE tracking, patch lifecycle management, and real-time alerting via WebSocket push
-- Integrated crowd density prediction models into a React/FastAPI application with live visualization of inference outputs
-- Implemented JWT authentication and role-based access control consistently across multiple full-stack projects
-- Built REST API backends in both Node.js/Express.js and Python/FastAPI serving React frontends across different product domains
-- Delivered five full-stack projects spanning SaaS analytics, cybersecurity tooling, AI applications, and operational platforms
-
-<br/>
-
----
-
-<br/>
-
-## GitHub Analytics
+## 🛠️ Technology Stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saravanan-246&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&hide=prs,issues" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanan-246&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=6" alt="Top Languages" />
+### Languages & Core
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />[cite: 1]
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />[cite: 1]
+
+### Frontend Architecture
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />[cite: 1]
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />[cite: 1]
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />[cite: 1]
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />[cite: 1]
+
+### Backend & Databases
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />[cite: 1]
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />[cite: 1]
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />[cite: 1]
+<img src="https://img.shields.io/badge/SQL_Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />[cite: 1]
+
+### DevOps & Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />[cite: 1]
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />[cite: 1]
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />[cite: 1]
 
 </div>
 
 <br/>
 
----
+## 🚀 Featured Engineering Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📅 Attendance Management System</h3>
+      <em>Jan 2025 - Mar 2025</em>[cite: 1]<br/><br/>
+      Built a role-based full-stack web application with secure authentication, custom dashboards, and responsive UI for attendance tracking.[cite: 1]<br/>
+      <br/><b>Tech:</b> <code>React.js</code>, <code>Node.js</code>, <code>Express.js</code>, <code>MongoDB</code>[cite: 1]
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 Smart Canteen Portal</h3>
+      <em>Dec 2025 - Feb 2026</em>[cite: 1]<br/><br/>
+      Built a full-stack web application for a canteen ordering system, implementing efficient cart functionality, order workflows, and MongoDB data handling.[cite: 1]<br/>
+      <br/><b>Tech:</b> <code>React.js</code>, <code>Node.js</code>, <code>Express.js</code>, <code>MongoDB</code>[cite: 1]
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍪 CookieAI Analytics</h3>
+      <em>SaaS Architecture</em><br/><br/>
+      Multi-tenant analytics platform covering event tracking, real-time device analytics via Socket.io, and role-based access control. Built with a clear separation between data ingestion and the dashboard layer.
+      <br/><br/><b>Tech:</b> <code>React</code>, <code>Node.js</code>, <code>MongoDB</code>, <code>Socket.io</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ PatchGuard AI</h3>
+      <em>Cybersecurity Systems</em><br/><br/>
+      A full-stack security dashboard giving teams visibility into vulnerability exposure, CVE tracking, and risk analytics with real-time WebSocket push alerts.
+      <br/><br/><b>Tech:</b> <code>React</code>, <code>Node.js</code>, <code>MongoDB</code>, <code>WebSockets</code>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-## Current Focus
+## 📜 Certifications & Achievements
 
-- **Backend Development** — Building well-structured Node.js and FastAPI services with clean API design
-- **System Design** — Learning and applying system design fundamentals to real project decisions
-- **AI Integration** — Connecting AI and ML services into full-stack web applications
-- **Real-Time Systems** — Deepening experience with WebSocket architecture and event-driven patterns
-- **Open Source** — Contributing to projects in the developer tooling and API space
-
-<br/>
-
----
+*   **Cloud Computing** - NPTEL[cite: 1]
+*   **MongoDB Basics** - MongoDB University[cite: 1]
+*   **Data Structures and Algorithms in C** - Great Learning[cite: 1]
+*   **Java Basics** - Udemy[cite: 1]
 
 <br/>
 
-## Open to Collaboration
-
-Available for:
-
-- **SaaS and Web Products** — Full-stack development, backend services, real-time features
-- **AI-Powered Applications** — Integrating AI/ML into web products
-- **Startup Projects** — Early-stage product development where engineering and product thinking go hand in hand
-- **Internships and Full-Time Roles** — Full Stack, Backend, or Software Engineering positions
-
-If you are building something interesting and need a full-stack engineer who thinks about both the product and the system — let's talk.
-
-<br/>
-
----
-
-<br/>
-
-## Contact
+## 📈 GitHub Analytics
 
 <div align="center">
-
-<br/>
-
-<a href="https://github.com/Saravanan-246" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Saravanan--246-24292e?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/your-linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Saravanan-0a66c2?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-your@email.com-24292e?style=flat-square&logo=gmail&logoColor=ffffff" alt="Email"/>
-</a>
-
-<br/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saravanan-246&theme=transparent&hide_border=true&title_color=4285F4&text_color=333333&icon_color=EA4335&background=ffffff00" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -325,13 +134,7 @@ If you are building something interesting and need a full-stack engineer who thi
 ---
 
 <div align="center">
-
-<br/>
-
-**Saravanan** &nbsp;&bull;&nbsp; Full Stack Engineer &nbsp;&bull;&nbsp; Coimbatore, India
-
-<sub>Building things that work. Learning what makes them last.</sub>
-
-<br/>
-
+  <h3>Let's build something extraordinary.</h3>
+  <p>If you are building something interesting and need a full-stack engineer who thinks about both the product and the system — let's talk.</p>
+  <b>Saravanan T</b> • Full Stack Developer • <a href="mailto:saro200621@gmail.com">saro200621@gmail.com</a>[cite: 1]
 </div>
