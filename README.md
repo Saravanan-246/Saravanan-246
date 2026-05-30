@@ -7,7 +7,7 @@
 Currently based in Coimbatore, India.</p>
 
 <a href="https://saravanan-dev-portfolio.vercel.app" target="_blank"><kbd>&nbsp;Production Portfolio&nbsp;</kbd></a> &nbsp;&bull;&nbsp;
-<a href="https://linkedin.com/in/saravanan-t" target="_blank"><kbd>&nbsp;LinkedIn Network&nbsp;</kbd></a> &nbsp;&bull;&nbsp;
+<a href="linkedin.com/in/saravanan246" target="_blank"><kbd>&nbsp;LinkedIn Network&nbsp;</kbd></a> &nbsp;&bull;&nbsp;
 <a href="mailto:saro200621@gmail.com"><kbd>&nbsp;Email Contact&nbsp;</kbd></a>
 
 <br/><br/>
